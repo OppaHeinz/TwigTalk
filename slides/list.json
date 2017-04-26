@@ -3,5 +3,6 @@
     "templating-engines.html",
     [ "implementing-logic-in-templates.html", "braces.md",  "variables.md", "control-structure.md", "iteraton.md", "functions.md", "filters.md" ],
     [ "inheritance.md", "extends.md", "embed.md", "include.md" ],
-    "sources.md"
+    "sources.md",
+    [ "drupal.md", "drupal/templating.md", "drupal/templating-patterns.md", "drupal/templating-example.md", "drupal/injection.md", "drupal/functions.md", "drupal/filters.md", "drupal/extending.md" ]
 ]
